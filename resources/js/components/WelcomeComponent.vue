@@ -5,3 +5,9 @@
         <v-alert dismissible type="success">Vueitfy installed successfully!</v-alert>
     </div>
 </template>
+
+<script>
+    export default {
+        
+    }
+</script>
